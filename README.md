@@ -24,6 +24,7 @@ A beautiful, fully responsive analog and digital clock built using **HTML**, **C
 > Ensure that your browser allows autoplay for audio if the sounds are not playing.
 
 ## 📸 Preview
+*Live Demo**: [Click to View](https://chrono-glow-clock-bd8kc7cro-shreys-projects-404d8f20.vercel.app)
 
 ![Screenshot Preview](./34c972b2-2cab-4e0e-b373-df021c9e2d3d.png)
 
