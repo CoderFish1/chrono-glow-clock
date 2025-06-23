@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="300" viewBox="0 0 300 300"
+     xmlns="http://www.w3.org/2000/svg" style="border-radius: 50%;">
+  <!-- Background circle -->
+  <circle cx="150" cy="150" r="150" fill="#fff"/>
+
+  <!-- Eight small hour-ticks on a 140px radius -->
+  <g stroke="#222" stroke-width="2" stroke-linecap="round">
+    <line x1="150" y1="10" x2="150" y2="20" transform="rotate(30 150 150)"/>
+    <line x1="150" y1="10" x2="150" y2="20" transform="rotate(60 150 150)"/>
+    <line x1="150" y1="10" x2="150" y2="20" transform="rotate(120 150 150)"/>
+    <line x1="150" y1="10" x2="150" y2="20" transform="rotate(150 150 150)"/>
+    <line x1="150" y1="10" x2="150" y2="20" transform="rotate(210 150 150)"/>
+    <line x1="150" y1="10" x2="150" y2="20" transform="rotate(240 150 150)"/>
+    <line x1="150" y1="10" x2="150" y2="20" transform="rotate(300 150 150)"/>
+    <line x1="150" y1="10" x2="150" y2="20" transform="rotate(330 150 150)"/>
+  </g>
+
+  <!-- Numerals -->
+  <g fill="#222"
+     font-family="Helvetica, Arial, sans-serif"
+     font-size="22" font-weight="700"
+     text-anchor="middle" dominant-baseline="middle">
+    <text x="150" y="23">12</text>
+    <text x="278" y="150">3</text>
+    <text x="150" y="278">6</text>
+    <text x="23"  y="150">9</text>
+  </g>
+</svg>
