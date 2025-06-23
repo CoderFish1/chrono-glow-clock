@@ -2,7 +2,8 @@
 
 A beautiful, fully responsive analog and digital clock built using **HTML**, **CSS**, and **JavaScript**, enhanced with ambient **sound effects** and a smooth **light/dark mode toggle**.
 
-![Clock Screenshot](./34c972b2-2cab-4e0e-b373-df021c9e2d3d.png)
+![Clock Screenshot]![Screenshot 2025-06-23 145826](https://github.com/user-attachments/assets/9ed293bf-65d6-4427-a9ba-d86a4aa9b38d)
+
 
 ## 🔥 Features
 
