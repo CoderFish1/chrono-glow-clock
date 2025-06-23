@@ -59,5 +59,10 @@ btn.addEventListener("click", () => {
     }
 
 })
+ function startSounds() {
+      document.getElementById('tick').play();
+      document.getElementById('nature').play();
+      document.body.removeEventListener('click', startSounds);
+    }
 
-
+    document.body.addEventListener('click', startSounds);
