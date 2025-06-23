@@ -2,7 +2,9 @@
 
 A beautiful, fully responsive analog and digital clock built using **HTML**, **CSS**, and **JavaScript**, enhanced with ambient **sound effects** and a smooth **light/dark mode toggle**.
 
-![Clock Screenshot](./34c972b2-2cab-4e0e-b373-df021c9e2d3d.png)
+![Clock Screenshot]![Screenshot 2025-06-23 145826](https://github.com/user-attachments/assets/9ed293bf-65d6-4427-a9ba-d86a4aa9b38d)![Screenshot 2025-06-23 145952](https://github.com/user-attachments/assets/d74201ee-1aec-495c-8fd3-26f6e965f714)
+
+
 
 ## 🔥 Features
 
@@ -22,8 +24,9 @@ A beautiful, fully responsive analog and digital clock built using **HTML**, **C
 > Ensure that your browser allows autoplay for audio if the sounds are not playing.
 
 ## 📸 Preview
+*Live Demo**: [Click to View](https://chrono-glow-clock-bd8kc7cro-shreys-projects-404d8f20.vercel.app)
 
-![Screenshot Preview](./34c972b2-2cab-4e0e-b373-df021c9e2d3d.png)
+
 
 ## 🛠️ Built With
 
